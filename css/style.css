@@ -1,14 +1,22 @@
 .bg-img {
     width: 100%;
+    display: inline-block;
+    position: absolute;
 }
 
 body {
     background-color: black;
 }
 
+.lineoftext1 {
+    position: relative;
+    top: 300px;
+    left: 100px;
+}
+
 .lil-vids {
     display: flex;
-    flex-direction: row;
+    width: 100vh;
 }
 
 .lil-vid1 {
