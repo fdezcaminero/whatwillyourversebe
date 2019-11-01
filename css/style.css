@@ -4,8 +4,10 @@
     position: absolute;
 }
 
-body {
-    background-color: black;
+.navbar {
+	position: relative;
+	top: 10px;
+  left: 100px;
 }
 
 .lineoftext1 {
@@ -14,8 +16,14 @@ body {
     left: 100px;
 }
 
+.lineoftext2 {
+    position: relative;
+    top: 310px;
+    left: 100px;
+}
+
 .lil-vids {
-    display: flex;
+    display: block;
     width: 100vh;
 }
 
@@ -35,6 +43,6 @@ body {
     flex: 1;
 }
 
-footer {
-    color: mistyrose;
+.footer-atb p {
+	font-size: 10px; 
 }
