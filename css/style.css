@@ -1,10 +1,11 @@
 .bg-img {
-    width: 100%;
-    display: inline-block;
+		width: 100%;
+		display: block;
     position: absolute;
 }
 
 .navbar {
+	background-color: gray;
 	position: relative;
 	top: 10px;
   left: 100px;
@@ -22,25 +23,20 @@
     left: 100px;
 }
 
-.lil-vids {
-    display: block;
-    width: 100vh;
-}
-
 .lil-vid1 {
-    flex: 1;
+		width: 364px;
 }
 
 .lil-vid2 {
-    flex: 1;
+	width: 364px;
 }
 
 .lil-vid3 {
-    flex: 1;
+	width: 364px;
 }
 
 .lil-vid4 {
-    flex: 1;
+	width: 364px;
 }
 
 .footer-atb p {
