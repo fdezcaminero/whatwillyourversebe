@@ -1,7 +1,7 @@
 .bg-img {
-		width: 100%;
-		display: block;
-    position: absolute;
+  width: 100%;
+	display: block;
+  position: absolute;
 }
 
 .navbar {
@@ -12,33 +12,54 @@
 }
 
 .lineoftext1 {
-    position: relative;
-    top: 300px;
-    left: 100px;
+  position: relative;
+  top: 300px;
+  left: 100px;
 }
 
 .lineoftext2 {
-    position: relative;
-    top: 310px;
-    left: 100px;
+  position: relative;
+  top: 310px;
+  left: 100px;
 }
 
 .lil-vid1 {
-		width: 364px;
+	top: 900px;
+	position: relative;
+	display: inline;
+	max-width: 15%;
+	max-height: 20%;
 }
 
 .lil-vid2 {
-	width: 364px;
+	top: 900px;
+	position: relative;
+	display: inline;
+	max-width: 15%;
+	max-height: 20%;
 }
 
 .lil-vid3 {
-	width: 364px;
+	top: 900px;
+	position: relative;
+	display: inline;
+	max-width: 15%;
+	max-height: 20%;
 }
 
 .lil-vid4 {
-	width: 364px;
+	top: 900px;
+	position: relative;
+	display: inline;
+	max-width: 15%;
+	max-height: 20%;
 }
 
-.footer-atb p {
+.footer-atb {
+	z-index: 1;
+	clear: both;
+	top: -1000px
+	position: absolute;
 	font-size: 10px; 
+	text-align: center;
 }
