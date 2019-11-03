@@ -54,12 +54,13 @@
 	max-width: 15%;
 	max-height: 20%;
 }
-
+/*
 .footer-atb {
 	z-index: 1;
 	clear: both;
-	top: -1000px
+	top: -1000px;
 	position: absolute;
 	font-size: 10px; 
 	text-align: center;
 }
+*/
