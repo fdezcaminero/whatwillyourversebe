@@ -139,6 +139,15 @@
 	top: 150px;
 }
 
+.lineoftext3:hover {
+	background-position: -217px -33px;
+	width: 545px;
+	height: 32px;
+	position: relative;
+	left: 275px;
+	top: 150px;
+}
+
 .lil-links {
 	display: block;
 	margin: 0;
