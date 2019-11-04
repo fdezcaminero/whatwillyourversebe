@@ -149,7 +149,7 @@
 }
 
 .lil-links {
-	display: block;
+	display: inline-block;
 	margin: 0;
 	padding: 0;
 	position: absolute;
@@ -191,5 +191,32 @@
 	position: absolute;
 	font-size: 10px; 
 	margin-top: 1750px;
-	text-align: center;
+}
+
+.p-one {
+	display: inline;
+	text-align: left;
+}
+
+.p-two {
+	position: relative;
+	top: -20px;
+	left: 700px;
+	text-align: right;
+}
+
+.p-two a {
+	padding-left: 10px;
+	padding-right: 5px;
+	border-right: 1px solid;
+}
+
+#p-two-last {
+	border-right: 0;
+}
+
+.last-link {
+	margin-left: 2px;
+	padding-left: 2px;
+	border-left: 1px solid;
 }
