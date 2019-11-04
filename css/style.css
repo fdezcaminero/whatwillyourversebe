@@ -6,6 +6,10 @@
 
 .navbar {
 	background-color: gray;
+	background: radial-gradient(#757975, #5f635f);
+	background-image: linear-gradient(#757975, #5f635f);
+	background: gray;
+
 	position: relative;
 	top: -150px;
 	left: 100px;
@@ -27,48 +31,81 @@
 	background-position: -69px -3px;
 	height: 23px;
 	width: 21px;
+	position: relative;
+	top: -200px;
+	left: 0;
+	margin-right: 0;
 }
 
 .storelogo {
 	background-position: -63px -38px;
 	height: 14px;
 	width: 35px;
+	position: relative;
+	top: -200px;
+	left: -150px;
 }
 
 .maclogo {
 	background-position: -65px -68px;
 	height: 14px;
 	width: 32px;
+	position: relative;
+	top: -200px;
+	left: -250px;
 }
 
 .ipadlogo {
 	background-position: -65px -158px;
 	height: 14px;
 	width: 31px;
+	position: relative;
+	top: -200px;
+	left: -550px;
 }
 
 .ipodlogo {
 	background-position: -66px -98px;
 	height: 12px;
 	width: 28px;
+	position: relative;
+	top: -200px;
+	left: -400px;
 }
 
 .iphonelogo {
 	background-position: -58px -127px;
 	height: 15px;
-	width: 45px;	
+	width: 45px;
+	position: relative;
+	top: -200px;
+	left: -450px;	
 }
 
 .ituneslogo {
 	background-position: -58px -188px;
 	height: 14px;
-	width: 45px;	
+	width: 45px;
+	position: relative;
+	top: -200px;
+	left: -650px;	
 }
 
 .supportlogo {
 	background-position: -51px -217px;
 	height: 17px;
-	width: 58px;	
+	width: 58px;
+	position: relative;
+	top: -200px;
+	left: -750px;	
+}
+
+.navsearchbar {
+	width: 106px;
+	height: 36.5px;
+	position: relative;
+	top: -240px;
+	left: 1000px;
 }
 
 .sprite {
@@ -76,16 +113,30 @@
 	background-repeat: no-repeat;
 }
 
+.sprite2 {
+	background-image: url(../resources/cta_your_verse_27pt.png);
+	background-repeat: no-repeat;
+}
+
 .lineoftext1 {
   position: relative;
-  top: 300px;
+  top: 125px;
   left: 100px;
 }
 
 .lineoftext2 {
   position: relative;
-  top: 310px;
+  top: 135px;
   left: 100px;
+}
+
+.lineoftext3 {
+	background-position: -217px 0;
+	width: 545px;
+	height: 32px;
+	position: relative;
+	left: 275px;
+	top: 150px;
 }
 
 .lil-links {
