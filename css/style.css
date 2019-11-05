@@ -15,8 +15,7 @@
 }
 
 .navbar li {
-	border-color: gray;
-	border-right: 2px solid;
+	border-right: 2px solid gray;
 	display: inline-flex;
 	list-style-type: none;
 	padding-left: 0;
