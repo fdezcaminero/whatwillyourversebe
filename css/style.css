@@ -10,6 +10,7 @@
 	background-image: linear-gradient(#757975, #5f635f);
 	background: gray;
 
+	border-radius: 1px;
 	position: relative;
 	top: -150px;
 	left: 100px;
@@ -155,10 +156,10 @@
 	position: absolute;
 	z-index: 1;
 	left: -50px;
-	top: 550px;
+	top: 520px;
 	bottom: 90px;
 	overflow: hidden;
-	width: 100%;
+	width: 105%;
 	height: 200px;
 }
 
