@@ -1,17 +1,17 @@
 .bg-img {
-	display: block;
-	position: absolute;
-	width: 100%;
+  display: block;
+  position: absolute;
+  width: 100%;
 }
 
 .navbar {
-	background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
-	height: 36px;
-	left: 100px;
-	position: relative;
-	top: -150px;
-	width: 980px;
-	z-index: 5;
+  background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
+  height: 36px;
+  left: 100px;
+  position: relative;
+  top: -150px;
+  width: 980px;
+  z-index: 5;
 }
 
 .navbar li {
