@@ -9,7 +9,6 @@
 }
 
 .navbar {
-  align-items: center;
   background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
   display: flex;
   height: 36px;
@@ -21,15 +20,16 @@
 }
 
 .navbar ul {
+  margin: 0;
   padding-left: 0;
 }
 
 .navbar ul li {
-  align-item: center;
   border-right: 2px solid gray;
   display: inline-flex;
   justify-content: center;
   list-style-type: none;
+  margin: 0;
   max-width: 11.11111%;
   text-align: center;
 }
@@ -40,12 +40,7 @@
 }
 
 .applelogo {
-  background-image: url(../resources/applelogo.png);
-  background-repeat: no-repeat;
-  height: 30px;
-  position: relative;
-  top: 21px;
-  width: 103.633px;
+  width: 100px;
 }
 
 .applelogo:hover {
@@ -54,10 +49,8 @@
 }
 
 .storelogo {
-  background-position: -63px -38px;
-  height: 30px;
   text-align: center;
-  width: 102.633px;
+  width: 100px;
 }
 
 .storelogo:hover {
@@ -66,9 +59,8 @@
 }
 
 .maclogo {
-  background-position: -65px -68px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .maclogo:hover {
@@ -77,9 +69,8 @@
 }
 
 .ipadlogo {
-  background-position: -65px -158px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .ipadlogo:hover {
@@ -88,9 +79,8 @@
 }
 
 .ipodlogo {
-  background-position: -66px -98px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .ipodlogo:hover {
@@ -99,9 +89,8 @@
 }
 
 .iphonelogo {
-  background-position: -58px -127px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .iphonelogo:hover {
@@ -110,9 +99,8 @@
 }
 
 .ituneslogo {
-  background-position: -58px -188px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .ituneslogo:hover {
@@ -121,9 +109,8 @@
 }
 
 .supportlogo {
-  background-position: -51px -217px;
-  height: 30px;
-  width: 102.633px;
+  text-align: center;
+  width: 100px;
 }
 
 .supportlogo:hover {
@@ -132,14 +119,14 @@
 }
 
 .navsearchbar {
-  left: 850px;
-  position: relative;
-  top: -35px;
+
 }
 
 .nsb {
-  height: 10px;
-  width: 132px;
+  background-color: gray;
+  border-radius: 10px;
+  height: 20px;
+  width: 110px;
 }
 
 .sprite {
