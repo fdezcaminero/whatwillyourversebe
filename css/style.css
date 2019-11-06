@@ -34,6 +34,12 @@
   text-align: center;
 }
 
+.p-two a {
+  border-right: 1px solid;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
 .navbar ul li a {
   color: white;
   text-decoration: none;
@@ -210,12 +216,6 @@
   position: relative;
   text-align: right;
   top: -20px;
-}
-
-.p-two a {
-  border-right: 1px solid;
-  padding-left: 10px;
-  padding-right: 5px;
 }
 
 .p-two-last {
