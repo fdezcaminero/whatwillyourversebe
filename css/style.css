@@ -1,229 +1,229 @@
 .main-section {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 .bg-img {
-	display: block;
-	max-width: 99%;
-	position: absolute;
+  display: block;
+  max-width: 99%;
+  position: absolute;
 }
 
 .navbar {
-	background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
-	display: flex;
-	height: 36px;
-	justify-content: center;
-	margin: 0 auto;
-	position: relative;
-	top: -150px;
-	width: 980px;
+  background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+  top: -150px;
+  width: 980px;
 }
 
 .navbar ul {
-	margin: 0;
-	padding-left: 0;
+  margin: 0;
+  padding-left: 0;
 }
 
 .navbar ul li {
-	border-right: 2px solid gray;
-	display: inline-flex;
-	justify-content: center;
-	list-style-type: none;
-	margin: 0;
-	max-width: 11.11111%;
-	text-align: center;
+  border-right: 2px solid gray;
+  display: inline-flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  max-width: 11.11111%;
+  text-align: center;
 }
 
 .navbar ul li a {
-	color: white;
-	text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .applelogo {
-	width: 100px;
+  width: 100px;
 }
 
 .applelogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .storelogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .storelogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .maclogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .maclogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .ipadlogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .ipadlogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .ipodlogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .ipodlogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .iphonelogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .iphonelogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .ituneslogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .ituneslogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .supportlogo {
-	text-align: center;
-	width: 100px;
+  text-align: center;
+  width: 100px;
 }
 
 .supportlogo:hover {
-	background-color: black;
-	background-color: rgba(51, 51, 51, 0.6);
+  background-color: black;
+  background-color: rgba(51, 51, 51, 0.6);
 }
 
 .nsb {
-	background-color: gray;
-	border-radius: 10px;
-	height: 20px;
-	width: 110px;
+  background-color: gray;
+  border-radius: 10px;
+  height: 20px;
+  width: 110px;
 }
 
 .sprite {
-	background-image: url(../resources/cta_your_verse_27pt.png);
-	background-repeat: no-repeat;
+  background-image: url(../resources/cta_your_verse_27pt.png);
+  background-repeat: no-repeat;
 }
 
 .lineoftext1 {
-	left: 100px;
-	position: relative;
-	top: 125px;
+  left: 100px;
+  position: relative;
+  top: 125px;
 }
 
 .lineoftext2 {
-	left: 100px;
-	position: relative;
-	top: 135px;
+  left: 100px;
+  position: relative;
+  top: 135px;
 }
 
 .lineoftext3 {
-	background-position: -217px 0;
-	height: 32px;
-	left: 275px;
-	position: relative;
-	top: 150px;
-	width: 545px;
+  background-position: -217px 0;
+  height: 32px;
+  left: 275px;
+  position: relative;
+  top: 150px;
+  width: 545px;
 }
 
 .lineoftext3:hover {
-	background-position: -217px -33px;
-	height: 32px;
-	left: 275px;
-	position: relative;
-	top: 150px;
-	width: 545px;
+  background-position: -217px -33px;
+  height: 32px;
+  left: 275px;
+  position: relative;
+  top: 150px;
+  width: 545px;
 }
 
 .lil-links {
-	bottom: 90px;
-	display: inline-block;
-	height: 200px;
-	left: -50px;
-	margin: 0;
-	max-width: 99%;
-	padding: 0;
-	position: absolute;
-	top: 520px;
+  bottom: 90px;
+  display: inline-block;
+  height: 200px;
+  left: -50px;
+  margin: 0;
+  max-width: 99%;
+  padding: 0;
+  position: absolute;
+  top: 520px;
 }
 
 .lil-links ul {
-	display: flex;
-	height: 200px;
-	list-style-type: none;
-	margin: 0 auto;
-	min-width: 1024px;
-	position: relative;
-	text-align: center;
+  display: flex;
+  height: 200px;
+  list-style-type: none;
+  margin: 0 auto;
+  min-width: 1024px;
+  position: relative;
+  text-align: center;
 }
 
 .lil-links ul li {
-	flex: 1 1 auto;
-	height: 200px;
-	margin: 0;
-	position: relative;
-	width: 20%;
+  flex: 1 1 auto;
+  height: 200px;
+  margin: 0;
+  position: relative;
+  width: 20%;
 }
 
 .footer-atb {
-	clear: both;
-	font-size: 10px;
-	margin-top: 1750px;
-	max-width: 100%;
-	position: absolute;
-	top: -1000px;
-	z-index: 1;
+  clear: both;
+  font-size: 10px;
+  margin-top: 1750px;
+  max-width: 100%;
+  position: absolute;
+  top: -1000px;
+  z-index: 1;
 }
 
 .p-one {
-	display: inline;
-	text-align: left;
+  display: inline;
+  text-align: left;
 }
 
 .p-two {
-	left: 700px;
-	position: relative;
-	text-align: right;
-	top: -20px;
+  left: 700px;
+  position: relative;
+  text-align: right;
+  top: -20px;
 }
 
 .p-two a {
-	border-right: 1px solid;
-	padding-left: 10px;
-	padding-right: 5px;
+  border-right: 1px solid;
+  padding-left: 10px;
+  padding-right: 5px;
 }
 
 .p-two-last {
-	border-right: 0;
+  border-right: 0;
 }
 
 .last-link {
-	border-left: 1px solid;
-	margin-left: 2px;
-	padding-left: 2px;
+  border-left: 1px solid;
+  margin-left: 2px;
+  padding-left: 2px;
 }
