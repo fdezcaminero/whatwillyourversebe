@@ -1,33 +1,50 @@
+.main-section {
+  max-width: 100%;
+}
+
 .bg-img {
   display: block;
+  max-width: 99%;
   position: absolute;
-  width: 100%;
 }
 
 .navbar {
+  align-items: center;
   background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
+  display: flex;
   height: 36px;
-  left: 100px;
+  justify-content: center;
+  margin: 0 auto;
   position: relative;
   top: -150px;
   width: 980px;
-  z-index: 5;
 }
 
-.navbar li {
+.navbar ul {
+  padding-left: 0;
+}
+
+.navbar ul li {
+  align-item: center;
   border-right: 2px solid gray;
   display: inline-flex;
+  justify-content: center;
   list-style-type: none;
-  padding-left: 0;
+  max-width: 11.11111%;
+  text-align: center;
 }
 
-.firstnav {
-  padding-left: 0;
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
 }
 
 .applelogo {
-  background-position: -69px -3px;
+  background-image: url(../resources/applelogo.png);
+  background-repeat: no-repeat;
   height: 30px;
+  position: relative;
+  top: 21px;
   width: 103.633px;
 }
 
@@ -39,6 +56,7 @@
 .storelogo {
   background-position: -63px -38px;
   height: 30px;
+  text-align: center;
   width: 102.633px;
 }
 
@@ -114,26 +132,17 @@
 }
 
 .navsearchbar {
-  background-color: black;
-  background-image: linear-gradient(to bottom, #757975 50%, #5f635f 50%);
-  height: 36.5px;
   left: 850px;
   position: relative;
   top: -35px;
-  width: 132px;
 }
 
 .nsb {
-  height: 36.5px;
+  height: 10px;
   width: 132px;
 }
 
 .sprite {
-  background-image: url(../resources/navpics.png);
-  background-repeat: no-repeat;
-}
-
-.sprite2 {
   background-image: url(../resources/cta_your_verse_27pt.png);
   background-repeat: no-repeat;
 }
@@ -172,42 +181,39 @@
   bottom: 90px;
   display: inline-block;
   height: 200px;
+  justify-content: space-evenly;
   left: -50px;
   margin: 0;
-  overflow: hidden;
+  max-width: 99%;
   padding: 0;
   position: absolute;
   top: 520px;
-  width: 105%;
-  z-index: 1;
 }
 
 .lil-links ul {
+  display: flex;
   height: 200px;
+  list-style-type: none;
   margin: 0 auto;
-  max-width: 1440px;
   min-width: 1024px;
-  overflow: hidden;
   position: relative;
   text-align: center;
-  width: 100%;
-  z-index: 1;
+
 }
 
 .lil-links ul li {
-  float: left;
+  flex: 1 1 auto;
   height: 200px;
   margin: 0;
-  overflow: hidden;
   position: relative;
-  width: 25%;
-  z-index: 1;
+  width: 20%;
 }
 
 .footer-atb {
   clear: both;
   font-size: 10px;
   margin-top: 1750px;
+  max-width: 100%;
   position: absolute;
   top: -1000px;
   z-index: 1;
