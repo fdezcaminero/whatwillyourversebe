@@ -1,6 +1,7 @@
 .main-section {
   background-image: url(../resources/big-pic.jpg);
   background-repeat: no-repeat;
+  margin: auto;
   max-width: 100%;
   min-height: 505px;
 }
@@ -135,12 +136,14 @@
 
 .lineoftext1 {
   left: 100px;
+  margin: auto;
   position: relative;
   top: 125px;
 }
 
 .lineoftext2 {
   left: 100px;
+  margin: auto;
   position: relative;
   top: 135px;
 }
@@ -148,6 +151,7 @@
 .lineoftext3 {
   background-position: -217px 0;
   height: 32px;
+  margin: auto;
   left: 275px;
   position: relative;
   top: 150px;
@@ -158,6 +162,7 @@
   background-position: -217px -33px;
   height: 32px;
   left: 275px;
+  margin: auto;
   position: relative;
   top: 150px;
   width: 545px;
