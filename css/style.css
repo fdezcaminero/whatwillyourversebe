@@ -1,11 +1,8 @@
 .main-section {
+  background-image: url(../resources/big-pic.jpg);
+  background-repeat: no-repeat;
   max-width: 100%;
-}
-
-.bg-img {
-  display: block;
-  max-width: 99%;
-  position: absolute;
+  min-height: 505px;
 }
 
 .navbar {
@@ -168,7 +165,8 @@
 
 .lil-links {
   bottom: 90px;
-  display: inline-block;
+  clear: both;
+  display: block;
   height: 200px;
   left: -50px;
   margin: 0;
