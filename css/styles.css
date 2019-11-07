@@ -1,0 +1,39 @@
+.main-section {
+  background-image: url(../resources/hero.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  margin: 0 auto;
+  max-height: 570px;
+  max-width: 1440px;
+  overflow: hidden;
+  width: 95vw;
+}
+
+.lil-pics {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1440px;
+  overflow: hidden;
+  width: 95vw;
+}
+
+/* 
+.lil-pic1 {
+  flex-shrink: 1;
+}
+
+.lil-pic2 {
+  flex-shrink: 1;
+}
+
+.lil-pic3 {
+  flex-shrink: 1;
+}
+
+.lil-pic4 {
+  flex-shrink: 1;
+} */
+
