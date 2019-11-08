@@ -1,0 +1,115 @@
+.main-section {
+	align-items: center;
+	background-image: url(../resources/hero.jpg);
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	height: 80vh;
+	margin: 0 auto;
+	max-height: 570px;
+	max-width: 1440px;
+	overflow: hidden;
+	width: 95vw;
+}
+
+.applenav {
+	background: linear-gradient(rgb(131, 131, 131) 50%, rgb(112, 112, 112) 50%);
+	border-radius: 5px;
+	height: 30px;
+	margin-top: 100px;
+	width: 1000px;
+}
+
+.applenav a {
+	border-right: 2px solid rgb(77, 76, 76);
+	color: white;
+	font-size: 14px;
+	max-height: 34px;
+	padding: 5px 30px;
+	text-decoration: none;
+}
+
+.applenav a img {
+	height: 20px;
+}
+
+.apple-search {
+	background: gray;
+	border-radius: 8px;
+	height: 25px;
+	left: 830px;
+	position: relative;
+	top: -22.5px;
+	width: 170px;
+}
+
+.applenav a:hover {
+	background: black;
+	background: rgba(51, 51, 51, 0.6);
+}
+
+.main-section a {
+	margin: 0 auto;
+}
+
+.lineoftext1 {
+	display: block;
+	margin: 0 auto;
+}
+
+.lineoftext2 {
+	display: block;
+	margin: 0 auto;
+}
+
+.lineoftext3 {
+	background: url(../resources/text-image3.png);
+	background-position: -216px 0;
+	display: block;
+	height: 31px;
+	margin: 10px auto;
+	width: 545px;
+}
+
+.lineoftext3:hover {
+	background-position: -216px 33px;
+	display: block;
+	height: 31px;
+	margin: 10px auto;
+	width: 545px;
+}
+
+.lil-pics {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 1440px;
+	overflow: hidden;
+	width: 95vw;
+}
+
+.big-footer {
+	color: #6e6e6e;
+	display: flex;
+	font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	margin: 0 auto;
+	padding: 10px 0 26px 0;
+}
+
+.wrapping {
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.liltext1 {
+	display: inline;
+}
+
+.liltext2 {
+	display: inline;
+	padding-left: 85px;
+}
+
+.liltext3 {
+	display: block;
+}
