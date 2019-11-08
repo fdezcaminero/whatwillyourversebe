@@ -17,17 +17,9 @@
 
 * [Built With](#built-with)
 
-* [Getting Started](#getting-started)
-
-* [Contributing](#contributing)
-
 * [License](#license)
 
 * [Contact](#contact)
-
-* [Acknowledgements](#acknowledgements)
-
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
