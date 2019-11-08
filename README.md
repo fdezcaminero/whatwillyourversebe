@@ -17,17 +17,9 @@
 
 * [Built With](#built-with)
 
-* [Getting Started](#getting-started)
-
-* [Contributing](#contributing)
-
 * [License](#license)
 
 * [Contact](#contact)
-
-* [Acknowledgements](#acknowledgements)
-
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
@@ -40,8 +32,6 @@ A little inspirational context: <a href="https://www.youtube.com/watch?v=omveFR-
 <br>
 
 Project created using HTML and CSS3
-
-<br>
 
 <br>
 
