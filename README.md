@@ -35,6 +35,8 @@ Project created using HTML and CSS3
 
 <br>
 
+After my code being rejected several times I decided to create a new branch called 'The Phoenix' and start again from scratch. I did this for several reasons. I had been sick this week and the project caught me a little bit off-guard. My mentor also told me that I could look at other peoples' code for the same project and that it would be OK just as long as I made sure I understood it. In the end I wasn't really sure if I understood it, therefore 'The Phoenix'. I received no help for the latter.
+
 <br>
 
 
