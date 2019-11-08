@@ -84,8 +84,6 @@
   width: 545px;
 }
 
-
-
 .lil-pics {
   display: flex;
   justify-content: center;
@@ -112,3 +110,29 @@
   flex-shrink: 1;
 } */
 
+.big-footer {
+  color: #6e6e6e;
+  display: flex;
+  font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  margin: 0 auto;
+  padding: 10px 0 26px 0;
+}
+
+.wrapping {
+  margin: 0 auto;
+  width: 980px;
+}
+
+.liltext1 {
+  display: inline;
+  padding-right: 10px;
+}
+
+.liltext2 {
+  display: inline;
+  padding-left: 100px;
+}
+
+.liltext3 {
+  display: block;
+}
