@@ -120,17 +120,16 @@
 
 .wrapping {
   margin: 0 auto;
-  width: 980px;
+  width: 1100px;
 }
 
 .liltext1 {
   display: inline;
-  padding-right: 10px;
 }
 
 .liltext2 {
   display: inline;
-  padding-left: 100px;
+  padding-left: 85px;
 }
 
 .liltext3 {
